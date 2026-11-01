@@ -1,12 +1,18 @@
 # Adam Custom Printing — Premium E-Commerce Website
 
-**Live Preview:** https://8000-… (check LIVE PREVIEW in Arena)
+[![Live](https://img.shields.io/badge/Live-https%3A%2F%2Fadam0903031--blip.github.io%2Fadam--custom--printing%2F-success?style=for-the-badge&logo=github)](https://adam0903031-blip.github.io/adam-custom-printing/)
+[![Made for Kano](https://img.shields.io/badge/Kano-State%2C%20Nigeria-0a3327?style=flat-square)](https://adam0903031-blip.github.io/adam-custom-printing/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0701%20000%200001-25D366?style=flat-square&logo=whatsapp)](https://wa.me/2347010000001)
+
+**🌐 Live Website:** **https://adam0903031-blip.github.io/adam-custom-printing/**
+
+**Live Preview (Arena):** https://8000-… (check LIVE PREVIEW)
 
 ## Business
 - **Adam Custom Printing**
 - Kano State, Nigeria
 - Phone: 07010000001 → WhatsApp international: +2347010000001
-- Email: adam0903031@gmail.com
+- Email: adam0903031@gamil.com
 - Currency: Nigerian Naira (₦) • Languages: English / Hausa
 
 ## Features Implemented
@@ -27,7 +33,7 @@
 - ✅ Hausa toggle, newsletter, secure upload handling (client-side preview)
 
 ## Admin Access
-- URL: #admin
+- URL: https://adam0903031-blip.github.io/adam-custom-printing/#admin
 - Email: adam0903031@gamil.com / Password: **admin123** (demo — change in production)
 
 ## What Still Requires Owner Configuration
@@ -39,7 +45,8 @@
 6. **Replace demo images** with genuine product photos where needed
 
 ## Deployment
-- Static site — deploy to Vercel, Netlify, cPanel, or any hosting. Just upload folder.
+- **GitHub Pages:** Already live via `main` branch
+- Also deployable to Vercel, Netlify, cPanel, or any hosting. Just upload folder.
 - For orders to persist across devices, add backend or headless CMS.
 
 ## Files
